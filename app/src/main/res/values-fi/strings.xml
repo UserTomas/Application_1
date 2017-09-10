@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_1</string>
+    <string name="title">Terve Maailma!!!</string>>
+    <string name="hello_world_land">Terve vaakatasoinen maailma!!!</string>
+    <string name="another_string">Tämä on toinen merkkijono</string>
+    <string name="last_string">Pää</string>
+</resources>
